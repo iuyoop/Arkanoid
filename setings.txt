@@ -1,0 +1,14 @@
+(1) level:
+	(a) level 1 : 15 cube  
+	(b) level 2 : 30 cube 
+	(c) level 3 : 45 cube 
+	(d) level 4 : 60 cube 
+
+(2) music:
+	(a) 8 bit music 
+	(b) Welcome your new home
+	(c) Welcome back
+
+(3) "no dead"
+	(a) yes
+	(b) no
